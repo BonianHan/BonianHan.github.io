@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bonian Han",
     "label": "Student",
-    "picture": "https://github.com/BonianHan/bonianhan.github.io/blob/main/9d6548938887dfaf5ec5393b924ab36.jpg?raw=true",
+    "picture": "https://github.com/BonianHan/bonianhan.github.io/blob/main/bonian.jpg?raw=true",
     "email": "Bonian985@gmail.com",
     "phone": "13588096431",
     "website": "https://bonianhan.github.io",
@@ -10,15 +10,15 @@
     "location": { "address": "Hangzhou, China"},
     "profiles": [
       { "network": "github", "username": "BonianHan", "url": "http://github.com/BonianHan" },
-      { "network": "CV", "username": "CV", "url": "http://linkedin.com/in/changeme" }
+      { "network": "CV", "username": "CV", "url": "https://drive.google.com/file/d/11My15KBPtegOCsFt9eQK6jSq9HulE5zC/view?usp=drive_link" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Deep Learning" },
+    { "name": "Computer Version" },
+    { "name": "Trustworthy Neural Nerwork" },
+    { "name": "Medical Image Analysis" },
+    { "name": "Graph Neural Network" }
   ],
   "skills": [
     {
