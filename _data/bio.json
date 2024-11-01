@@ -5,11 +5,11 @@
     "picture": "https://github.com/BonianHan/bonianhan.github.io/blob/main/9d6548938887dfaf5ec5393b924ab36.jpg?raw=true",
     "email": "Bonian985@gmail.com",
     "phone": "13588096431",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://bonianhan.github.io",
     "summary": "I am studying for a B.S. in Statistics in the Department of Ecomony at the Hangzhou Dianzi University. I expect to graduate in Summer, 2025.",
     "location": { "address": "Hangzhou, China"},
     "profiles": [
-      { "network": "github", "username": "BonianHan", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "BonianHan", "url": "http://github.com/BonianHan" },
       { "network": "CV", "username": "CV", "url": "http://linkedin.com/in/changeme" }
     ]
   },
