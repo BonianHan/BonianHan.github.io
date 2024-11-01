@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Deep Learning" },
-    { "name": "Computer Version" },
+    { "name": "Computer Vision" },
     { "name": "Trustworthy Neural Nerwork" },
     { "name": "Medical Image Analysis" },
     { "name": "Graph Neural Network" }
