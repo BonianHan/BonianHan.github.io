@@ -1,6 +1,5 @@
 ---
 title: "Enhancing Machine Learning Based SQL Injection Detection Using Contextualized Word Embedding"
-collection: publications
 permalink: /publication/24-04acmse
 date: 2024-04-27
 excerpt: " Illustration of Using Machine Learning Model to Prevent SQLi Attacks<br/><img src='/images/acmse2024.png'>"
