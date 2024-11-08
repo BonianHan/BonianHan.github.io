@@ -9,7 +9,7 @@ redirect_from:
 
 ![script](/images/about.jpg){: .align-right width="300px"}
 
-🤓 I'm pursuing a B.S. in Statistics at the [School of Economics](https://economics.hdu.edu.cn/eco_en/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/), and expect to graduate in the summer of 2025.
+🤓 I'm pursuing a B.S. in Statistics at the [School of Economics](https://economics.hdu.edu.cn/eco_en/), [Hangzhou Dianzi University](https://en.hdu.edu.cn/), and expect to graduate in the summer of 2025.
 
 👨‍💻 I'm currently working with Prof. [Gongbo Liang](http://www.gb-liang.com/)  at [Texa A&M University-San Antonio](https://www.tamusa.edu/) research in image classification.
 
