@@ -15,21 +15,21 @@ redirect_from:
 
 👨‍🎓 I'm actively seeking a Ph.D. program for Fall 2025.
 
+---
 
+# 🔎 My Research Interests *(not limited to...)*
 
-🔎 My research interests are in(not limitted to...):
-### a) Trustworthy Neural Networks:
-- Deep Neural Network Model Calibration
-- Model Feature Extractor
-- Loss Algorithm
-- Graph Neural Network Explainer
+* **a) Trustworthy Neural Networks**
+  - Deep Neural Network Model Calibration
+  - Model Feature Extractor
+  - Loss Algorithm
+  - Graph Neural Network Explainer
 
-### b) Computer Vision
+* **b) Computer Vision**
 
-### c) AI for Science:
-- Medical Image Classification
-- Remote Sensing Classification
-
+* **c) AI for Science**
+  - Medical Image Classification
+  - Remote Sensing Classification
 
 
 
