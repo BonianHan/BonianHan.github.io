@@ -31,5 +31,8 @@ redirect_from:
   - Medical Image Classification
   - Remote Sensing Classification
 
+---
+Hobits: Basketball, Tennis, Running
+🎾I used to be a ball boy at the 2022 Hangzhou Asian Games and served as a ball kid coach for teenagers aged 10-16 at the Hangzhou ATP 2024.
 
-
+ 
