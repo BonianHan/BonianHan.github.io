@@ -5,7 +5,7 @@ category: pubished
 permalink: /publication/24-11bigdata
 date: 2025-01-16
 excerpt: "Illustration of the proposed method for both training (top) and inference (bottom)<br/><img src='/images/bigdata.png'>"
-venue: '(not yet)2024 IEEE International Conference on Big Data'
+venue: '2024 IEEE International Conference on Big Data'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10825661/'
 citation: ""
 ---
