@@ -89,6 +89,7 @@ author:
   location         : "Hangzhou, China"
   employer         : "Hangzhou Dianzi University"
   uri              : # URL
+  googlescholar    : https://scholar.google.com/citations?user=1WOOkRcAAAAJ&hl=en
   email            : "bonian985@gmail.com" 
 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
