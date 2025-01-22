@@ -3,10 +3,10 @@ title: "Improving Medical Imaging Model Calibration through Probabilistic Embedd
 collection: publications
 category: pubished
 permalink: /publication/24-11bigdata
-date: 2024-11-10
+date: 2024-12
 excerpt: "Illustration of the proposed method for both training (top) and inference (bottom)<br/><img src='/images/bigdata.png'>"
 venue: '(not yet)2024 IEEE International Conference on Big Data'
-paperurl: 'accepted, coming soon'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10825661/'
 citation: ""
 ---
 

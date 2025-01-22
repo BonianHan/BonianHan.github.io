@@ -3,7 +3,7 @@ title: "Enhancing Machine Learning Based SQL Injection Detection Using Contextua
 collection: publications
 category: pubished
 permalink: /publication/24-04acmse
-date: 2024-04-27
+date: 2024-04
 excerpt: "Illustration of Using Machine Learning Model to Prevent SQLi Attacks<br/><img src='/images/acmse2024.png'>"
 venue: 'ACMSE'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3603287.3651187'
