@@ -88,8 +88,7 @@ author:
   bio              : "Computer Vision"
   location         : "Hangzhou, China"
   employer         : "Hangzhou Dianzi University"
-  uri              : # URL
-  googlescholar    : https://scholar.google.com/citations?user=1WOOkRcAAAAJ&hl=en
+  googlescholar    : "https://scholar.google.com/citations?user=ABC123456"
   email            : "bonian985@gmail.com" 
 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
