@@ -11,12 +11,11 @@ redirect_from:
 
 📖 I'm pursuing a B.S. in Statistics at the [School of Economics](https://economics.hdu.edu.cn/eco_en/), [Hangzhou Dianzi University](https://en.hdu.edu.cn/), and expect to graduate in the summer of 2025.
 
-👨‍💻 I'm currently working with Prof. [Gongbo Liang](http://www.gb-liang.com/)  at [Texa A&M University-San Antonio](https://www.tamusa.edu/) research in image analysis.So far, I have published three papers. As the first author, I have one paper in the **EMBC** conference, one in the **IEEE Big Data** conference, and another one in the **ICIP** conference that has been submitted.
+👨‍💻 At present, I am working with Prof. [Gongbo Liang](http://www.gb-liang.com/) at [Texas A&M University-San Antonio](https://www.tamusa.edu/) on image analysis research. So far, I have published three papers. As the first author, I have one paper in the **EMBC** conference, one in the **IEEE Big Data** conference, and another one in the **ICIP** conference that has been submitted.
 
+We are currently exploring how to leverage the inherent uncertainty in images to improve the performance of contrastive learning methods (such as SimCLR, etc.).
 
-Currently, we are exploring how to leverage the inherent uncertainty in images to improve the performance of contrastive learning methods (such as SimCLR, etc.)
-
-I’m actively applying for a Ph.D. position in Fall 2025! If you are interested in my research, please feel free to contact me. [CV](https://github.com/Bn-123/Bn-123.github.io/blob/main/files/CV.pdf)
+I am actively applying for Ph.D. positions for Fall 2025! If you are interested in my research, please feel free to contact me. [CV](https://bonianhan.github.io/files/CV.pdf)
 
 ---
 
