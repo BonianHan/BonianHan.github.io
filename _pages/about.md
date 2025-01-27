@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "😎 Hello! Here is Bn."
+title: "🤖Hello! Here is Bn."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 
 ![script](/images/about.jpg){: .align-right width="300px"}
 
-🤓 I'm pursuing a B.S. in Statistics at the [School of Economics](https://economics.hdu.edu.cn/eco_en/), [Hangzhou Dianzi University](https://en.hdu.edu.cn/), and expect to graduate in the summer of 2025.
+📖 I'm pursuing a B.S. in Statistics at the [School of Economics](https://economics.hdu.edu.cn/eco_en/), [Hangzhou Dianzi University](https://en.hdu.edu.cn/), and expect to graduate in the summer of 2025.
 
-👨‍💻 I'm currently working with Prof. [Gongbo Liang](http://www.gb-liang.com/)  at [Texa A&M University-San Antonio](https://www.tamusa.edu/) research in image classification.
+👨‍💻 I'm currently working with Prof. [Gongbo Liang](http://www.gb-liang.com/)  at [Texa A&M University-San Antonio](https://www.tamusa.edu/) research in image analysis.So far, I have published three papers. As the first author, I have one paper in the EMBC conference, one in the IEEE BigData conference, and another one in the ICIP conference that has been submitted. Currently, we are exploring how to leverage the inherent uncertainty in images to improve the performance of contrastive learning methods (such as SimCLR, etc.)
 
-👨‍🎓 I'm actively seeking a Ph.D. program for Fall 2025.
+I'm actively seeking a Ph.D. program for Fall 2025.
 
 ---
 
